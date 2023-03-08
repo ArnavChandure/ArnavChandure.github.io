@@ -1,0 +1,22 @@
+html {
+  font-size: 22px;
+}
+
+body {
+  background-color: rgb(23, 23, 23);
+  color: whitesmoke;
+}
+
+.container {
+  text-align: center;
+}
+
+h1, li, h4, h2, p, dl {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+}
