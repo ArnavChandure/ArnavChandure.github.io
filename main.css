@@ -11,7 +11,7 @@ body {
   text-align: center;
 }
 
-h1, li, h4, h2, p, dl, h3 {
+h1, li, h4, h2, p, dl, h3, a {
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -20,3 +20,16 @@ p {
   justify-content: center;
   height: 200px;
 }
+
+a{
+  color:rgb(44, 73, 74);
+}
+
+a:visited{
+  color: aquamarine ;
+}
+
+a:hover, :active{
+  color: aqua;
+}
+
